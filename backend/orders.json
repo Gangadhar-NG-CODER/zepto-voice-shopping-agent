@@ -1,0 +1,60 @@
+[
+  {
+    "order_id": "ORD-20251128-203812",
+    "timestamp": "2025-11-28T20:38:12.554083",
+    "customer_name": "Balakrishna",
+    "customer_address": "Vaccine University, Compad",
+    "delivery_instructions": "",
+    "items": [
+      {
+        "item_id": "bread_whole_wheat",
+        "name": "Whole Wheat Bread",
+        "quantity": 2,
+        "unit_price": 45.0,
+        "line_total": 90.0,
+        "notes": ""
+      },
+      {
+        "item_id": "milk_full_cream",
+        "name": "Full Cream Milk",
+        "quantity": 1,
+        "unit_price": 65.0,
+        "line_total": 65.0,
+        "notes": ""
+      },
+      {
+        "item_id": "pasta_pack",
+        "name": "Penne Pasta",
+        "quantity": 2,
+        "unit_price": 85.0,
+        "line_total": 170.0,
+        "notes": "for pasta for two"
+      },
+      {
+        "item_id": "pasta_sauce_jar",
+        "name": "Tomato Basil Pasta Sauce",
+        "quantity": 2,
+        "unit_price": 120.0,
+        "line_total": 240.0,
+        "notes": "for pasta for two"
+      },
+      {
+        "item_id": "cheese_block",
+        "name": "Cheddar Cheese Block",
+        "quantity": 2,
+        "unit_price": 150.0,
+        "line_total": 300.0,
+        "notes": "for pasta for two"
+      },
+      {
+        "item_id": "chips_classic",
+        "name": "Classic Salted Chips",
+        "quantity": 1,
+        "unit_price": 20.0,
+        "line_total": 20.0,
+        "notes": ""
+      }
+    ],
+    "order_total": 885.0
+  }
+]
